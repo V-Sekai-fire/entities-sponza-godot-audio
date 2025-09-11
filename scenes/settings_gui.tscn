@@ -1,6 +1,6 @@
 [gd_scene load_steps=10 format=3 uid="uid://dfjh4s01g77bl"]
 
-[ext_resource type="Script" path="res://scripts/settings_gui.gd" id="2"]
+[ext_resource type="Script" uid="uid://bps70ov5psyns" path="res://scripts/settings_gui.gd" id="2"]
 [ext_resource type="FontFile" path="res://resources/fonts/title.tres" id="3"]
 [ext_resource type="FontFile" path="res://resources/fonts/text_strong.tres" id="4"]
 [ext_resource type="FontFile" path="res://resources/fonts/text.tres" id="5"]

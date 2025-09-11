@@ -5,10 +5,6 @@ based on the Sponza from Crytek.
 
 **Looking for a Godot 3.x version of this demo?** See the [`3.x` branch](https://github.com/Calinou/godot-sponza/tree/3.x).
 
-![Godot 3 Sponza image 1](https://archive.hugo.pro/.public/godot-sponza/godot_3_sponza_1.jpg)
-
-![Godot 3 Sponza image 2](https://archive.hugo.pro/.public/godot-sponza/godot_3_sponza_2.jpg)
-
 ## Try it out
 
 ### Installation
@@ -20,10 +16,10 @@ git clone https://github.com/Calinou/godot-sponza.git
 ```
 
 You can also
-[download a ZIP archive](https://github.com/Calinou/godot-sponza/archive/4.0-dev.zip)
+[download a ZIP archive](https://github.com/Calinou/godot-sponza/archive/master.zip)
 if you do not have Git installed.
 
-**You need Godot 4.2 or later to run this demo.**
+**You need Godot 4.4 or later to run this demo.**
 
 Once you have the project files, open the Godot Project Manager, click the
 **Import** button, then select the `project.godot` file of this project.
@@ -41,7 +37,7 @@ the background, which would slow down the running project a lot.
 - <kbd>F1</kbd>: Toggle FPS display
 - <kbd>F10</kbd>: Toggle mouse capture
 - <kbd>F11</kbd>: Toggle fullscreen
-<!-- - <kbd>F3</kbd>: Show frametime graph (currently broken) --!
+<!-- - <kbd>F3</kbd>: Show frametime graph (currently broken) -->
 
 ## License
 
