@@ -1,0 +1,56 @@
+[gd_resource type="ResonanceAudioMaterialMap" format=3 uid="uid://bdmjecbvgdfw1"]
+
+[resource]
+material_mappings = {
+"res://sponza/Material__25.tres": 16,
+"res://sponza/Material__298.tres": 16,
+"res://sponza/Material__47.tres": 16,
+"res://sponza/Material__57.tres": 16,
+"res://sponza/arch.tres": 12,
+"res://sponza/bricks.tres": 2,
+"res://sponza/ceiling.tres": 18,
+"res://sponza/chain.tres": 13,
+"res://sponza/column_a.tres": 12,
+"res://sponza/column_b.tres": 12,
+"res://sponza/column_c.tres": 12,
+"res://sponza/details.tres": 15,
+"res://sponza/fabric_a.tres": 6,
+"res://sponza/fabric_c.tres": 6,
+"res://sponza/fabric_d.tres": 6,
+"res://sponza/fabric_e.tres": 6,
+"res://sponza/fabric_f.tres": 6,
+"res://sponza/fabric_g.tres": 6,
+"res://sponza/flagpole.tres": 13,
+"res://sponza/floor.tres": 12,
+"res://sponza/leaf.tres": 10,
+"res://sponza/roof.tres": 18,
+"res://sponza/vase.tres": 18,
+"res://sponza/vase_hanging.tres": 18,
+"res://sponza/vase_round.tres": 18
+}
+"Scan Scene Materials" = Callable()
+Mappings/Material__25.tres = 16
+Mappings/Material__298.tres = 16
+Mappings/Material__47.tres = 16
+Mappings/Material__57.tres = 16
+Mappings/arch.tres = 12
+Mappings/bricks.tres = 2
+Mappings/ceiling.tres = 18
+Mappings/chain.tres = 13
+Mappings/column_a.tres = 12
+Mappings/column_b.tres = 12
+Mappings/column_c.tres = 12
+Mappings/details.tres = 15
+Mappings/fabric_a.tres = 6
+Mappings/fabric_c.tres = 6
+Mappings/fabric_d.tres = 6
+Mappings/fabric_e.tres = 6
+Mappings/fabric_f.tres = 6
+Mappings/fabric_g.tres = 6
+Mappings/flagpole.tres = 13
+Mappings/floor.tres = 12
+Mappings/leaf.tres = 10
+Mappings/roof.tres = 18
+Mappings/vase.tres = 18
+Mappings/vase_hanging.tres = 18
+Mappings/vase_round.tres = 18

@@ -12,8 +12,12 @@ config_version=5
 
 config/name="Sponza"
 run/main_scene="res://scenes/sponza.scn"
-config/features=PackedStringArray("4.4")
+config/features=PackedStringArray("4.7", "Double Precision")
 config/icon="res://icon.png"
+
+[autoload]
+
+ReverbDemo="*res://reverb_demo.gd"
 
 [display]
 
